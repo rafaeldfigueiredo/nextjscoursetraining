@@ -1,0 +1,1 @@
+Training repo from Udemy' course Nextjs 14 & React - The Complete Guide from Maximilian Schwarzmüller.
